@@ -34,3 +34,6 @@ li .menu-price {
     display: inline;
     float: right;
 }
+li p:hover{
+	color: blue
+}
